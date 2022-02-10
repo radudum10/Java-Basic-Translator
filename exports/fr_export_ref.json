@@ -1,0 +1,149 @@
+[
+  {
+    "word": "aller",
+    "word_en": "walk",
+    "type": "verb",
+    "singular": [
+      "vais",
+      "vas",
+      "va"
+    ],
+    "plural": [
+      "allons",
+      "allez",
+      "vont"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "se diriger",
+          "se rendre",
+          "se transporter"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Se mouvoir d\u0027un lieu vers un autre, s\u0027y rendre : Aller à pied chez soi. Aller à Brest.",
+          "Se déplacer pour accomplir une action, pour rendre visite à quelqu\u0027un : Aller dîner en ville. Aller chez le coiffeur."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chat",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": [
+      "chat"
+    ],
+    "plural": [
+      "chats"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2001,
+        "text": [
+          "greffier",
+          "mistigri",
+          "matou",
+          "minet"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Mammifère carnivore (félidé), sauvage ou domestique, au museau court et arrondi",
+          "Familier. Terme d\u0027affection, de tendresse adressé à quelqu\u0027un",
+          "Jeu d\u0027enfants dans lequel un des joueurs, le chat, poursuit les autres et tente de les toucher"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jeu",
+    "word_en": "game",
+    "type": "noun",
+    "singular": [
+      "jeu"
+    ],
+    "plural": [
+      "jeux"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "amusement",
+          "délassement",
+          "distraction",
+          "divertissement",
+          "passe-temps",
+          "récréation"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Activité d\u0027ordre physique ou mental, non imposée, ne visant à aucune fin utilitaire, et à laquelle on s\u0027adonne pour se divertir, en tirer un plaisir",
+          "Activité de loisir soumise à des règles conventionnelles, comportant gagnant(s) et perdant(s) et où interviennent, de façon variable, les qualités physiques ou intellectuelles, l\u0027adresse, l\u0027habileté et le hasard",
+          "Ensemble des différents jeux de hasard, en particulier ceux où l\u0027on risque de l\u0027argent",
+          "Ensemble des règles qui régissent un divertissement organisé"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "manger",
+    "word_en": "eat",
+    "type": "verb",
+    "singular": [
+      "mange",
+      "manges",
+      "mange"
+    ],
+    "plural": [
+      "mangeons",
+      "mangez",
+      "mangent"
+    ],
+    "definitions": [
+      {
+        "dict": "Larousse",
+        "dictType": "synonyms",
+        "year": 2000,
+        "text": [
+          "absorber",
+          "becqueter",
+          "bouffer",
+          "boulotter",
+          "briffer",
+          "ingurgiter"
+        ]
+      },
+      {
+        "dict": "Larousse",
+        "dictType": "definitions",
+        "year": 2000,
+        "text": [
+          "Porter quelque chose à sa bouche, le mâcher, le mâchonner, le ronger, le mordiller, etc. (sans généralement avaler)",
+          "Entamer quelque chose, ronger, altérer",
+          "En parlant d\u0027un insecte, entamer quelque chose, une matière, y faire des trous"
+        ]
+      }
+    ]
+  }
+]
